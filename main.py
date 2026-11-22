@@ -1,3 +1,4 @@
+"""Make the AI judge feel held — writes /output/entry.txt (make.fun, 2026-11-22)."""
 from pathlib import Path
 import os
 
